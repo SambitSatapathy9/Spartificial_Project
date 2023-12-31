@@ -19,7 +19,8 @@ This repository contains code and resources for detecting rooftop solar panels u
 
 ## Code Structure
 
-- `data/`: Contains the dataset and necessary data preprocessing scripts.
+- `data.csv`: CSV file with image IDs and corresponding labels for reference and usage.
+- **Note:** The training and testing images are not provided here, as they are subject to copyright. 
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and result analysis.
 - `README.md`: This file providing an overview of the project and its components.
 
