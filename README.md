@@ -22,15 +22,15 @@ This repository contains code and resources for detecting rooftop solar panels u
 - `data.csv`: CSV file with image IDs and corresponding labels for reference and usage.
 - **Note:** The training and testing images are not provided here, as they are subject to copyright. 
 - `notebooks/`: Jupyter notebooks for data exploration, model training, and result analysis.
-- `README.md`: This file providing an overview of the project and its components.
+- `README.md`: This file provides an overview of the project and its components.
 
 ## Requirements
 
 - python>=3.6
  
 ### Libraries and dependencies
-- numpy
+- NumPy
 - pandas
 - matplotlib
 - scikit-learn
-- tensorflow
+- keras TensorFlow
